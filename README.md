@@ -4,5 +4,4 @@ ejercicio-13-14-Nathaliacr created by GitHub Classroom
 
 Grupo:
 
-Mauricio Gonzalez
-Nathalia Calderón 
+Mauricio Gonzalez, Nathalia Calderón 
