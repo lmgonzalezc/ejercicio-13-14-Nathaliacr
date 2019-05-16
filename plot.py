@@ -33,3 +33,8 @@ plt.plot(data3[:,0], Fdiff)
 plt.subplot(2,2,2)
 plt.plot(data3[:,0], Fdifflog)
 plt.savefig("plotFdiff.png")
+
+data5 = np.loadtxt("datos5.dat")
+plt.figure()
+plt.plot(data5[:,0], data5[:,1])
+plt.savefig("plotbifurc.png")
